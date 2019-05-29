@@ -1,6 +1,9 @@
 {
   "name": "beta_test",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular",
   "id": "4c5a65e4"
 }

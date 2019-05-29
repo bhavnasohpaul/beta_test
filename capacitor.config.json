@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.qwerty_1",
+  "appName": "beta_test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
